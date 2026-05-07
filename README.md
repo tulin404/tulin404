@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Túlio 👋</h1>
-<h3 align="center">
+<h3 align="center"><i>
   Fullstack Developer focado em aplicações web completas,
   do backend à interface, com atenção à arquitetura e performance.
-</h3>
+</i></h3>
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -42,6 +42,15 @@
 </tr>
 </table>
 
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+  <h1>🌟 Projects</h1>
+</td>
+</tr>
+</table>
 
 <!--
 **tulin404/tulin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
