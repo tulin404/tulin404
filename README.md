@@ -22,7 +22,7 @@
 
 <td valign="top" width="50%">
 
-<h1 align="center">🛠️ Tecnologias</h1>
+<h1 align="center">🤖 Tecnologias</h1>
 <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,python,docker,postgres,mysql,git,linux,vscode" />
 
 <h1 align="center" >⚙️ Engenharia</h1>
@@ -42,9 +42,6 @@
 </tr>
 </table>
 
-<div align="center">
-  
-</div>
 
 <!--
 **tulin404/tulin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
