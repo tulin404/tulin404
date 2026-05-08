@@ -44,13 +44,13 @@
 
 <br>
 
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td align="center">
   <h1>🌟 Projects</h1>
 </td>
 </tr>
-</table>
+</table> -->
 
 <!--
 **tulin404/tulin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
