@@ -35,7 +35,7 @@
 🔹 Gerenciamento de estado no frontend <br>
 🔹 Modelagem de banco de dados relacional <br>
 🔹 Containers e ambiente isolado com Docker <br>
-🔹 Fluxo completo: interface → API → banco de dados <br>
+🔹 Fluxo completo: interface → API/MQ (jobs & workers) → banco de dados <br>
 <br>
 
 </td>
