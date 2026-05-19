@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:7b2cbf&height=130&section=header&animation=fadeIn" />
+</p>
 <h1 align="center">Olá! Eu sou o Túlio 👋</h1>
 <h3 align="center"><i>
   Fullstack Developer focado em aplicações web completas,
