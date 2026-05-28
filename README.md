@@ -1,5 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:7b2cbf&height=100&section=header&animation=fadeIn" />
+</p> -->
+<p align="center">
+  <img src="./intro.gif" height="450px"/>
 </p>
 <h1 align="center">Olá! Eu sou o Túlio 👋</h1>
 <h3 align="center"><i>
