@@ -17,9 +17,10 @@
 - 📚 Interesse em sistemas distribuídos, modelagem de dados e design de aplicações
 - 🔥 Construção de projetos reais priorizando eficiência, escalabilidade e organização
 
-<p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=tulin404&theme=dark"/>
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=tulin404&theme=dark&exclude_days=Sun%2CSat" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=tulin404&theme=default&exclude_days=Sun%2CSat"/>
+</picture>
 
 </td>
 
