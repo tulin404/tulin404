@@ -18,8 +18,8 @@
 - 🔥 Construção de projetos reais priorizando eficiência, escalabilidade e organização
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=tulin404&theme=dark&exclude_days=Sun%2CSat" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=tulin404&theme=default&exclude_days=Sun%2CSat"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tulin404&theme=dark&locale=pt_BR&exclude_days=Sun%2CSat" />
+  <img height="200" src="https://streak-stats.demolab.com?user=tulin404&locale=pt_BR&exclude_days=Sun%2CSat"/>
 </picture>
 
 </td>
