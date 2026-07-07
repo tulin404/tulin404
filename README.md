@@ -19,7 +19,7 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=tulin404&theme=dark&locale=pt_BR&exclude_days=Sun%2CSat" />
-  <img height="240" src="https://github-readme-streak-stats.herokuapp.com?user=tulin404&locale=pt_BR&exclude_days=Sun%2CSat"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tulin404&locale=pt_BR&exclude_days=Sun%2CSat"/>
 </picture>
 
 </td>
