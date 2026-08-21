@@ -27,7 +27,11 @@
 <td valign="top" width="50%">
 
 <h1 align="center">🤖 Tecnologias</h1>
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,docker,postgres,redis,git,linux,vscode" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,prisma,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,git,linux,ubuntu,arch" />
+</p>
 
 <h1 align="center" >⚙️ Engenharia</h1>
 
