@@ -12,7 +12,7 @@
 
 <h1 align="center">🧠 Sobre mim</h1>
 
-- 🎓 Engenharia de Software — UniFacef (1º semestre)
+- 🎓 Engenharia de Software — UniFacef (2º semestre)
 - 🧪 Desenvolvimento fullstack com foco em APIs, arquitetura e integração client/server
 - 📚 Interesse em sistemas distribuídos, modelagem de dados e design de aplicações
 - 🔥 Construção de projetos reais priorizando eficiência, escalabilidade e organização
